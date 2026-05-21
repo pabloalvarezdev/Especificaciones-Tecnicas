@@ -1,6 +1,7 @@
 Transcender — Especificación técnica compacta refactorizada
 1. Definición
 
+
 El Transcender es una estructura operativa superior formada por siete Caras interconectadas cuya función es transformar una Semilla Operativa de entrada en una Semilla Operativa de salida optimizada mediante mecanismos de:
 
 conocimiento emergente;
